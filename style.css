@@ -3,8 +3,8 @@ body {
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 16px;
     line-height: 1.5;
-    color: #333;
-    background-color: #f9f9f9;
+    color: rgb(251, 249, 249);
+    background-image: url("https://cdn.wallpapersafari.com/69/39/kCRLsa.jpg");
 }
 
 a {
